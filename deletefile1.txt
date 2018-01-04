@@ -1,2 +1,0 @@
-File to be deleted via bash rm command
-this is second line
